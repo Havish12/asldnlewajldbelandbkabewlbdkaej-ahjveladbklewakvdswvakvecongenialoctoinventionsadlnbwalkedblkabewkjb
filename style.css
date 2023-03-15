@@ -1,0 +1,39 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+
+.ol
+{
+	float: center;
+}
+
+.img_responsive
+{
+	float: center;
+
+}
+
+body
+{
+    background-color: rgb(0, 170, 255);
+	text-align: center;
+}
+
+.head
+{
+	float:center;
+	font-size: 25px;
+}
+
+#test_image_and_result
+{
+	float: center;
+	font-size: large;
+}
+
